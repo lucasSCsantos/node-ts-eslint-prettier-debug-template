@@ -1,2 +1,2 @@
 
-# Starter Kit for Node Expres server with Typescript, Eslint, Prettier and Debug Setup
+# Starter Kit for Node Express server with Typescript, Eslint, Prettier and Debug Setup
