@@ -20,6 +20,6 @@
 			"console": "integratedTerminal",
 			"preLaunchTask": "tsc: watch - tsconfig.json",
 			"postDebugTask": "Terminate All Tasks",
-		},
+		}
 	]
 }
