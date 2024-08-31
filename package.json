@@ -5,7 +5,7 @@
   "main": "dist/src/index.js",
   "scripts": {
     "test": "jest --coverage --forceExit",
-    "dev": "tsx watch src/index.ts",
+    "dev": "tsx watch src/server/index.ts",
     "build": "tsc",
     "watch": "rm -r dist/ && tsc -w"
   },
